@@ -13,6 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Telegram Api](https://img.shields.io/badge/-Telegram_Api-black?style=flat-square&logo=telegram)
 ![Discord Api](https://img.shields.io/badge/-Discord_Api-black?style=flat-square&logo=discord)
+![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
 
 ## 📖 Stats
 
