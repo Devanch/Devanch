@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello world 👋</h1>
 <p align="center"><b>Im from Belarus</br></p>
-![Discord Api](https://cdn.discordapp.com/attachments/1008571074981658694/1016712181787676803/the_time_of_the_modern_apocalypse_where_all_the_time_gray_c_79ce538f-3b1d-4888-abb2-36d9d82deeb8.png)
 
 
 ## 🛠 Technologies
