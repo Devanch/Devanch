@@ -1,9 +1,3 @@
-<h1 align="center">👋 Hello world 👋</h1>
-<p align="center"><b>Im from Belarus</br></p>
-
-
-## 🛠 Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -14,13 +8,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Telegram Api](https://img.shields.io/badge/-Telegram_Api-black?style=flat-square&logo=telegram)
 ![Discord Api](https://img.shields.io/badge/-Discord_Api-black?style=flat-square&logo=discord)
-
-## 📖 Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Devanch&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanch&hide=html&layout=compact&theme=tokyonight)
-
-## 📞 Contacts
-![Website](https://img.shields.io/badge/WebSite-devan.info-blue)
-![Website](https://img.shields.io/badge/Discord-Devan%230101-blue)
 
